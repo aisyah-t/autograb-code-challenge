@@ -1,0 +1,22 @@
+.flex {
+ display: flex;
+ flex: 1
+}
+
+.flex-row {
+ flex-direction: row;
+ align-content: center;
+}
+
+.flex-column {
+ flex-direction: column;
+ row-gap: 20px;
+}
+
+.width-small {
+ width: 180px;
+}
+
+.align-left {
+ text-align: left;
+}
